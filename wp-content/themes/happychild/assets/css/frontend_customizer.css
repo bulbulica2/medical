@@ -1,0 +1,293 @@
+/* Style Picker start */
+#style-picker {
+	position: fixed;
+	left: 0;
+	top: 10%;
+	z-index: 10000;
+	font: 12px arial, helvetica, sans-serif;
+	color: #000;
+	width: 260px;
+	padding: 15px 20px 5px 20px;
+	background: #f3f3f3;
+	-webkit-transition: left 0.5s;
+	-moz-transition: left 0.5s;
+	-o-transition: left 0.5s;
+	transition: left 0.5s;
+}
+
+@media (max-width: 991px) {
+	#style-picker {
+		display: none !important;
+	}
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+	#style-picker {
+		display: none !important;
+	}
+}
+
+#style-picker.closed {
+	left: -260px;
+}
+
+#style-picker .handler {
+	position: absolute;
+	right: -40px;
+	width: 40px;
+	height: 40px;
+	top: 20%;
+	cursor: pointer;
+	text-align: center;
+	color: #000;
+	font-size: 28px;
+	line-height: 40px;
+	background: #f3f3f3;
+}
+
+#style-picker .handler .closed-icon {
+	display: none;
+}
+
+#style-picker.closed .closed-icon {
+	display: block;
+}
+
+#style-picker.closed .opened-icon {
+	display: none;
+}
+
+#style-picker .handler .fa {
+	line-height: inherit;
+}
+
+#style-picker .title {
+	margin-bottom: 15px;
+	font-size: 18px;
+}
+
+#style-picker .title small {
+	margin-left: 15px;
+	font-size: 11px;
+}
+
+#style-picker .title small a {
+	color: #0078ff;
+	text-decoration: underline;
+}
+
+#style-picker .options-title {
+	margin-bottom: 10px;
+	padding-top: 5px;
+	line-height: normal;
+	color: #808080;
+	border-top: 1px solid #dcdcdc;
+}
+
+#style-picker .options-title small {
+	font-size: 11px;
+}
+
+#style-picker .options-content {
+	margin: 0 0 20px 0;
+}
+
+#style-picker #layout-style ul {
+	margin: 0 -20px 0 0;
+	padding: 0;
+	list-style: none;
+	color: #000;
+}
+
+#style-picker #layout-style li {
+	display: inline-block;
+	margin: 0 5px 0 0;
+}
+
+#style-picker #layout-style li label {
+	display: inline-block;
+	margin: 0;
+	padding: 3px 15px;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+#style-picker #layout-style li.active label {
+	position: relative;
+	padding: 2px 14px;
+	cursor: default;
+	border: 1px solid #000;
+}
+
+#style-picker #layout-style li label input {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	visibility: hidden;
+	opacity: 0;
+}
+
+/* Style picker scheme colors */
+
+#style-picker #theme-colors {
+	float: left;
+	width: 100%;
+}
+
+#style-picker #theme-colors ul {
+	margin: 0 -20px -16px 0;
+	padding: 0;
+	list-style: none;
+}
+
+#style-picker #theme-colors li {
+	float: left;
+	margin: 0 20px 0 0;
+}
+
+#style-picker #theme-colors li a {
+	display: block;
+	width: 60px;
+	height: 60px;
+}
+
+#style-picker #theme-colors li .color-label {
+	margin-bottom: 5px;
+	font-size: 11px;
+}
+
+/* Style picker patterns and images */
+
+#style-picker #theme-patterns {
+	float: left;
+	width: 100%;
+	margin-bottom: -8px;
+}
+
+#style-picker #theme-patterns ul {
+	margin: 0 -8px 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+#style-picker #theme-patterns li {
+	float: left;
+	position: relative;
+	margin: 0 8px 8px 0;
+}
+
+#style-picker #theme-patterns li a {
+	display: block;
+	width: 30px;
+	height: 30px;
+	background-color: #fff;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-attachment: scroll !important;
+	border: 2px solid transparent;
+}
+
+#style-picker #theme-patterns li.active a {
+	cursor: default;
+	border-color: #ed265a;
+}
+
+
+.pattern-lines {
+	background: url("../images/patterns/pattern-lines.png") repeat;
+}
+
+.pattern-big-lines {
+	background: url("../images/patterns/pattern-big-lines.png") repeat;
+}
+
+.pattern-01 {
+	background-image: url("../images/patterns/01.png");
+}
+
+.pattern-02 {
+	background-image: url("../images/patterns/02.png");
+}
+
+.pattern-03 {
+	background-image: url("../images/patterns/03.png");
+}
+
+.pattern-04 {
+	background-image: url("../images/patterns/04.png");
+}
+
+.pattern-05 {
+	background-image: url("../images/patterns/05.png");
+}
+
+.pattern-06 {
+	background-image: url("../images/patterns/06.png");
+}
+
+.background-01,
+.background-02,
+.background-03,
+.background-04,
+.background-05,
+.background-06 {
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.background-01 {
+	background-image:url("../images/backgrounds/01.jpg");
+}
+
+#theme-patterns .background-01 {
+	background-image: url("../images/backgrounds/01-thumb.jpg");
+}
+
+.background-02 {
+	background-image:url("../images/backgrounds/02.jpg");
+}
+
+#theme-patterns .background-02 {
+	background-image: url("../images/backgrounds/02-thumb.jpg");
+}
+
+.background-03 {
+	background-image:url("../images/backgrounds/03.jpg");
+}
+
+#theme-patterns .background-03 {
+	background-image: url("../images/backgrounds/03-thumb.jpg");
+}
+
+.background-04 {
+	background-image:url("../images/backgrounds/04.jpg");
+}
+
+#theme-patterns .background-04 {
+	background-image: url("../images/backgrounds/04-thumb.jpg");
+}
+
+.background-05 {
+	background-image:url("../images/backgrounds/05.jpg");
+}
+
+#theme-patterns .background-05 {
+	background-image: url("../images/backgrounds/05-thumb.jpg");
+}
+
+.background-06 {
+	background-image:url("../images/backgrounds/06.jpg");
+}
+
+#theme-patterns .background-06 {
+	background-image: url("../images/backgrounds/06-thumb.jpg");
+}
+
+/* Style picker end */

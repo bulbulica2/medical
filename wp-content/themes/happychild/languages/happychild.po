@@ -1,0 +1,1566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: happychild\n"
+"POT-Creation-Date: 2014-12-11 15:40+0500\n"
+"PO-Revision-Date: 2014-12-11 15:41+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: happychild\n"
+
+#: happychild/404.php:8
+msgid "The page you are looking for cannot be found"
+msgstr ""
+
+#: happychild/404.php:10
+msgid "You may want to check the following links:"
+msgstr ""
+
+#: happychild/404.php:11
+msgid "Homepage"
+msgstr ""
+
+#: happychild/404.php:13
+msgid "Contact"
+msgstr ""
+
+#: happychild/comments.php:38 happychild/comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: happychild/comments.php:40 happychild/comments.php:62
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: happychild/comments.php:41 happychild/comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: happychild/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: happychild/image.php:32
+msgid "Pages:"
+msgstr ""
+
+#: happychild/image.php:47 happychild/woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: happychild/image.php:54
+msgid "Previous Image"
+msgstr ""
+
+#: happychild/image.php:55
+msgid "Next Image"
+msgstr ""
+
+#: happychild/search.php:3
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: happychild/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: happychild/inc/comment_form.php:11
+msgid "Your Name"
+msgstr ""
+
+#: happychild/inc/comment_form.php:13
+msgid "Your Email"
+msgstr ""
+
+#: happychild/inc/comment_form.php:30
+msgid "Post Comment"
+msgstr ""
+
+#: happychild/inc/custom.php:51
+#, php-format
+msgid "<cite class=\"fn highlight\">%s</cite>"
+msgstr ""
+
+#: happychild/inc/custom.php:59
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: happychild/inc/custom.php:59
+msgid "(Edit)"
+msgstr ""
+
+#: happychild/inc/custom.php:91 happychild/inc/custom.php:100
+#: happychild/inc/custom.php:109
+msgid "Title Box Style:"
+msgstr ""
+
+#: happychild/inc/custom.php:91 happychild/inc/custom.php:100
+#: happychild/inc/custom.php:109
+msgid "Style 1"
+msgstr ""
+
+#: happychild/inc/custom.php:91 happychild/inc/custom.php:100
+#: happychild/inc/custom.php:109
+msgid "Style 2"
+msgstr ""
+
+#: happychild/inc/custom.php:91 happychild/inc/custom.php:100
+#: happychild/inc/custom.php:109
+msgid "Shop"
+msgstr ""
+
+#: happychild/inc/custom.php:91 happychild/inc/custom.php:92
+#: happychild/inc/custom.php:100 happychild/inc/custom.php:101
+#: happychild/inc/custom.php:109 happychild/inc/custom.php:110
+msgid "Custom Image"
+msgstr ""
+
+#: happychild/inc/custom.php:91 happychild/inc/custom.php:100
+#: happychild/inc/custom.php:109
+msgid "Hide"
+msgstr ""
+
+#: happychild/inc/custom.php:93 happychild/inc/custom.php:102
+#: happychild/inc/custom.php:111
+msgid "Repeat:"
+msgstr ""
+
+#: happychild/inc/custom.php:93 happychild/inc/custom.php:102
+#: happychild/inc/custom.php:111
+msgid "repeat"
+msgstr ""
+
+#: happychild/inc/custom.php:93 happychild/inc/custom.php:102
+#: happychild/inc/custom.php:111
+msgid "repeat-x"
+msgstr ""
+
+#: happychild/inc/custom.php:93 happychild/inc/custom.php:102
+#: happychild/inc/custom.php:111
+msgid "repeat-y"
+msgstr ""
+
+#: happychild/inc/custom.php:93 happychild/inc/custom.php:102
+#: happychild/inc/custom.php:111
+msgid "no-repeat"
+msgstr ""
+
+#: happychild/inc/custom.php:94 happychild/inc/custom.php:103
+#: happychild/inc/custom.php:112
+msgid "Show Breadcrumbs:"
+msgstr ""
+
+#: happychild/inc/custom.php:94 happychild/inc/custom.php:103
+#: happychild/inc/custom.php:112 happychild/inc/customizer/register.php:300
+msgid "Yes"
+msgstr ""
+
+#: happychild/inc/custom.php:94 happychild/inc/custom.php:103
+#: happychild/inc/custom.php:112
+msgid "No"
+msgstr ""
+
+#: happychild/inc/custom.php:118
+msgid "View Work URL:"
+msgstr ""
+
+#: happychild/inc/custom.php:119
+msgid "embed:"
+msgstr ""
+
+#: happychild/inc/mailchimp.php:10
+msgid "Enter a valid email"
+msgstr ""
+
+#: happychild/inc/post_types.class.php:32
+msgid "Add New"
+msgstr ""
+
+#: happychild/inc/post_types.class.php:33
+#: happychild/inc/post_types.class.php:201
+msgid "Add New "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:34
+#: happychild/inc/post_types.class.php:199
+msgid "Edit "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:35
+#: happychild/inc/post_types.class.php:202
+msgid "New "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:36
+#: happychild/inc/post_types.class.php:196
+msgid "All "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:37
+msgid "View "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:38
+#: happychild/inc/post_types.class.php:195
+msgid "Search "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:39
+#: happychild/inc/post_types.class.php:40
+msgid "No "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:73
+msgid "Options"
+msgstr ""
+
+#: happychild/inc/post_types.class.php:197
+#: happychild/inc/post_types.class.php:198
+msgid "Parent "
+msgstr ""
+
+#: happychild/inc/post_types.class.php:200
+msgid "Update "
+msgstr ""
+
+#: happychild/inc/setup.php:24
+msgid "Top primary menu"
+msgstr ""
+
+#: happychild/inc/setup.php:25
+msgid "Secondary menu in the footer"
+msgstr ""
+
+#: happychild/inc/setup.php:35
+msgid "Primary Sidebar"
+msgstr ""
+
+#: happychild/inc/setup.php:37
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: happychild/inc/setup.php:47
+msgid "Shop Sidebar"
+msgstr ""
+
+#: happychild/inc/setup.php:49
+msgid "Shop sidebar that appears on the right."
+msgstr ""
+
+#: happychild/inc/setup.php:59
+msgid "Footer area"
+msgstr ""
+
+#: happychild/inc/setup.php:61
+msgid "Footer widget area that appears at the bottom."
+msgstr ""
+
+#: happychild/inc/setup.php:89 happychild/partials/breadcrumbs.php:10
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:196 happychild/inc/tgm.php:139
+msgid "Install Required Plugins"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:197 happychild/inc/tgm.php:140
+msgid "Install Plugins"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:198 happychild/inc/tgm.php:141
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:210 happychild/inc/tgm.php:153
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:212 happychild/inc/TGM.class.php:1958
+#: happychild/inc/tgm.php:154
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:548 happychild/inc/TGM.class.php:2175
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1178
+msgid "Private Repository"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1181
+msgid "Pre-Packaged"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1186
+msgid "WordPress Repository"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1189
+msgid "Required"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1189
+msgid "Recommended"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1192
+msgid "Not Installed"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1194
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1296 happychild/inc/TGM.class.php:1404
+msgid "Install"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1318 happychild/inc/TGM.class.php:1405
+msgid "Activate"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1367
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1383
+msgid "Plugin"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1384
+msgid "Source"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1385
+msgid "Type"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1386
+#: happychild/woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1514
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1622
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1941
+msgid "Install package not available."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1942
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1943
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1944
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1945
+msgid "Plugin install failed."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1946
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:1957
+msgid "Plugin activation failed."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2071
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2072
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2072 happychild/inc/TGM.class.php:2081
+msgid "Show Details"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2072 happychild/inc/TGM.class.php:2081
+msgid "Hide Details"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2073
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2074
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2078
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2079
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2080
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2081
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2082
+msgid "All installations have been completed."
+msgstr ""
+
+#: happychild/inc/TGM.class.php:2083
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: happychild/inc/tgm.php:142
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: happychild/inc/tgm.php:155
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:7
+msgid "Header"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:22
+msgid "Logo"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:41
+msgid "Header position:"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:45
+msgid "Static"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:46
+msgid "Fixed"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:53
+msgid "Footer"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:69
+msgid "Footer Type:"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:74
+msgid "Type 1"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:75
+msgid "Type 2"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:85
+msgid "Widget Areas"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:91
+msgid "One"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:92
+msgid "Two"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:93
+msgid "Three"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:94
+msgid "Four"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:95
+msgid "Disable Widgets"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:112
+msgid "Footer Image"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:130
+msgid "Copyright"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:142
+msgid "Social Buttons"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:150
+msgid "Facebook"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:151
+msgid "Twitter"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:152
+msgid "Linkedin"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:153
+#: happychild/inc/widgets/instagram.php:12
+#: happychild/inc/widgets/instagram.php:89
+msgid "Instagram"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:154
+#: happychild/inc/customizer/register.php:331
+msgid "Google"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:155
+msgid "Vimeo"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:187
+msgid "Wrapper style:"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:191
+msgid "Wide"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:192
+msgid "Boxed"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:208
+msgid "Background Image:"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:212
+msgid "None"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:213
+msgid "pattern-01"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:214
+msgid "pattern-02"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:215
+msgid "pattern-03"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:216
+msgid "pattern-04"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:217
+msgid "pattern-05"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:218
+msgid "pattern-06"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:219
+msgid "background-01"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:220
+msgid "background-02"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:221
+msgid "background-03"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:222
+msgid "background-04"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:223
+msgid "background-05"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:224
+msgid "background-06"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:231
+msgid "Colors"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:245
+msgid "Base 1"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:259
+msgid "Base 2"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:274
+msgid "Base 3"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:280
+msgid "Other"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:296
+msgid "Hide Site Preloader"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:317
+msgid "Favicon"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:342
+msgid "Google Analytics Script"
+msgstr ""
+
+#: happychild/inc/customizer/register.php:355
+msgid "Mailchimp"
+msgstr ""
+
+#: happychild/inc/lib/mailchimp/Handling.class.php:37
+msgid "Please Confirm Your Email"
+msgstr ""
+
+#: happychild/inc/lib/mailchimp/Handling.class.php:41
+msgid "User with this email is already subscribed"
+msgstr ""
+
+#: happychild/inc/lib/mailchimp/Handling.class.php:45
+msgid ""
+"Please go to http://mailchimp.com/, login, go to your list, then Settings, "
+"and put \\\"First Name\\\" and \\\"Last Name\\\" not required."
+msgstr ""
+
+#: happychild/inc/lib/mailchimp/Handling.class.php:49
+msgid "Your API Key is Invalid!"
+msgstr ""
+
+#: happychild/inc/lib/mailchimp/Handling.class.php:53
+msgid "The list that you provided does not exists!"
+msgstr ""
+
+#: happychild/inc/metaboxes/default.php:49
+msgid "Select"
+msgstr ""
+
+#: happychild/inc/metaboxes/default.php:51
+msgid "Delete"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:13
+msgid "Instagram widget"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:51
+msgid "Error Instagram Token"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:55
+msgid "Error Client Id"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:126
+#: happychild/inc/widgets/mailchimp.php:94
+msgid "Title:"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:130
+msgid "Number of posts to show:"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:134
+msgid "Cache: (h)"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:138
+msgid "Client Id:"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:142
+msgid "Secret:"
+msgstr ""
+
+#: happychild/inc/widgets/instagram.php:146
+msgid "Token:"
+msgstr ""
+
+#: happychild/inc/widgets/mailchimp.php:11
+msgid "MailChimp"
+msgstr ""
+
+#: happychild/inc/widgets/mailchimp.php:12
+msgid "MailChimp widget"
+msgstr ""
+
+#: happychild/inc/widgets/mailchimp.php:37
+#: happychild/woocommerce/single-product-reviews.php:63
+msgid "Email"
+msgstr ""
+
+#: happychild/inc/widgets/mailchimp.php:39
+msgid "Subscribe"
+msgstr ""
+
+#: happychild/inc/widgets/mailchimp.php:67
+msgid "Error API"
+msgstr ""
+
+#: happychild/inc/widgets/mailchimp.php:88
+msgid "Newsletter"
+msgstr ""
+
+#: happychild/inc/widgets/mailchimp.php:98
+msgid "To setup this widget please follow this <a href=\""
+msgstr ""
+
+#: happychild/partials/breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+#: happychild/partials/breadcrumbs.php:5
+#, php-format
+msgid "Category archive \"%s\""
+msgstr ""
+
+#: happychild/partials/breadcrumbs.php:6
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: happychild/partials/breadcrumbs.php:7
+#, php-format
+msgid "Tag \"%s\""
+msgstr ""
+
+#: happychild/partials/breadcrumbs.php:8
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: happychild/partials/breadcrumbs.php:9
+msgid "Page not found"
+msgstr ""
+
+#: happychild/partials/breadcrumbs.php:11
+msgid "Blog"
+msgstr ""
+
+#: happychild/partials/content-gallery.php:5
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: happychild/partials/content-none.php:5
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: happychild/partials/content-none.php:9
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: happychild/partials/content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: happychild/partials/content.php:15 happychild/partials/content.php:18
+#: happychild/partials/loop.php:30 happychild/partials/loop.php:33
+#: happychild/partials/related-posts.php:56
+#: happychild/partials/related-posts.php:59
+msgid "comments"
+msgstr ""
+
+#: happychild/partials/content.php:51
+msgid "About the Author: "
+msgstr ""
+
+#: happychild/partials/loop.php:45 happychild/partials/related-posts.php:65
+msgid "Read more"
+msgstr ""
+
+#: happychild/partials/project-audio.php:9
+#: happychild/partials/project-gallery.php:9
+#: happychild/partials/project-image.php:9
+#: happychild/partials/project-video.php:9
+msgid "View work"
+msgstr ""
+
+#: happychild/partials/related-posts.php:17
+msgid "Related posts"
+msgstr ""
+
+#: happychild/partials/share.php:2
+msgid "Share Social"
+msgstr ""
+
+#: happychild/partials/title_box.php:25
+msgid "Latest Posts"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:65
+msgid "Submit"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:71
+msgid "Your Rating"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:72
+msgid "Rate&hellip;"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:73
+msgid "Perfect"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:74
+msgid "Good"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:75
+msgid "Average"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:76
+msgid "Not that bad"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:77
+msgid "Very Poor"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:81
+msgid "Your Review"
+msgstr ""
+
+#: happychild/woocommerce/single-product-reviews.php:90
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-shipping.php:72
+#: happychild/woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-totals.php:21
+#: happychild/woocommerce/checkout/review-order.php:48
+msgid "Cart Subtotal"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-totals.php:75
+#: happychild/woocommerce/checkout/review-order.php:102
+msgid "Order Total"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:27
+#: happychild/woocommerce/checkout/form-pay.php:19
+#: happychild/woocommerce/checkout/review-order.php:18
+msgid "Product"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:30
+#: happychild/woocommerce/checkout/review-order.php:19
+#: happychild/woocommerce/myaccount/my-orders.php:35
+msgid "Total"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:106
+msgid "Remove this item"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:124
+msgid "Coupon"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:124
+#: happychild/woocommerce/checkout/form-coupon.php:30
+msgid "Coupon code"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:124
+#: happychild/woocommerce/checkout/form-coupon.php:34
+msgid "Apply Coupon"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:131
+msgid "Update Cart"
+msgstr ""
+
+#: happychild/woocommerce/cart/cart.php:132
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: happychild/woocommerce/cart/cross-sells.php:39
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: happychild/woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+#: happychild/woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: happychild/woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr ""
+
+#: happychild/woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr ""
+
+#: happychild/woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: happychild/woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: happychild/woocommerce/cart/shipping-calculator.php:40
+msgid "Postcode / Zip"
+msgstr ""
+
+#: happychild/woocommerce/cart/shipping-calculator.php:55
+#: happychild/woocommerce/cart/shipping-calculator.php:61
+#: happychild/woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr ""
+
+#: happychild/woocommerce/cart/shipping-calculator.php:62
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: happychild/woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: happychild/woocommerce/cart/shipping-calculator.php:88
+msgid "Update Totals"
+msgstr ""
+
+#: happychild/woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: happychild/woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-login.php:14
+msgid "Click here to login"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-login.php:24
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: happychild/woocommerce/checkout/form-shipping.php:55
+#: happychild/woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: happychild/woocommerce/checkout/review-order.php:148
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: happychild/woocommerce/checkout/review-order.php:150
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: happychild/woocommerce/checkout/review-order.php:161
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: happychild/woocommerce/checkout/review-order.php:161
+msgid "Update totals"
+msgstr ""
+
+#: happychild/woocommerce/checkout/review-order.php:168
+msgid "Place order"
+msgstr ""
+
+#: happychild/woocommerce/checkout/review-order.php:177
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:28
+#: happychild/woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:36
+#: happychild/woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:40
+msgid "Order:"
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: happychild/woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: happychild/woocommerce/global/form-login.php:22
+#: happychild/woocommerce/myaccount/form-lost-password.php:23
+msgid "Username or email"
+msgstr ""
+
+#: happychild/woocommerce/global/form-login.php:26
+#: happychild/woocommerce/myaccount/form-login.php:35
+#: happychild/woocommerce/myaccount/form-login.php:80
+msgid "Password"
+msgstr ""
+
+#: happychild/woocommerce/global/form-login.php:35
+#: happychild/woocommerce/myaccount/form-login.php:25
+#: happychild/woocommerce/myaccount/form-login.php:42
+msgid "Login"
+msgstr ""
+
+#: happychild/woocommerce/global/form-login.php:38
+#: happychild/woocommerce/myaccount/form-login.php:44
+msgid "Remember me"
+msgstr ""
+
+#: happychild/woocommerce/global/form-login.php:42
+msgid "Lost your password?"
+msgstr ""
+
+#: happychild/woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: happychild/woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: happychild/woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: happychild/woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: happychild/woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: happychild/woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: happychild/woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: happychild/woocommerce/loop/sale-flash.php:16
+msgid "Sale"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-change-password.php:20
+#: happychild/woocommerce/myaccount/form-lost-password.php:30
+msgid "New password"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-change-password.php:24
+#: happychild/woocommerce/myaccount/form-lost-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-change-password.php:29
+#: happychild/woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-account.php:28
+#: happychild/woocommerce/myaccount/form-login.php:74
+msgid "Email address"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-account.php:36
+msgid "Confirm new password"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-address.php:16
+#: happychild/woocommerce/myaccount/my-address.php:19
+#: happychild/woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-address.php:16
+#: happychild/woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-edit-address.php:40
+msgid "Save Address"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-login.php:32
+msgid "Username or email address"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-login.php:46
+msgid "Lost password?"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-login.php:59
+#: happychild/woocommerce/myaccount/form-login.php:93
+msgid "Register"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-login.php:68
+msgid "Username"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-login.php:86
+msgid "Anti-spam"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-lost-password.php:21
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-lost-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: happychild/woocommerce/myaccount/view-order.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: happychild/woocommerce/myaccount/view-order.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: happychild/woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: happychild/woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: happychild/woocommerce/single-product/price.php:16
+msgid "Price:"
+msgstr ""
+
+#: happychild/woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: happychild/woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: happychild/woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: happychild/woocommerce/single-product/rating.php:25
+#: happychild/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: happychild/woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: happychild/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: happychild/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: happychild/woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: happychild/woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: happychild/woocommerce/single-product/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: happychild/woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: happychild/woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: happychild/woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: happychild/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""

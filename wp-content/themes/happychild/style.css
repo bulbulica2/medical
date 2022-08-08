@@ -1,0 +1,24 @@
+/*
+    Theme Name: Happy Child
+    Theme URI: http://happychild.stylemixthemes.com/
+    Author: StylemixThemes
+    Author URI: http://stylemixthemes.com/
+    Description: Happy Child is the outstanding WordPress theme created for professional child care centres and kindergartens.
+    Version: 4.5
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+    Tags: Child, Care, Kindergarten, Preschool
+    Text Domain: happychild
+
+    This theme, like WordPress, is licensed under the GPL.
+    Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import "assets/css/bootstrap.min.css?v=4.5";
+@import "assets/css/style.css?v=4.5";
+@import "assets/css/mobile.css?v=4.5";
+@import "assets/css/select2.css?v=4.5";
+@import "assets/css/font-awesome.min.css?v=4.5";
+@import "assets/css/uniform.default.css?v=4.5";
+@import "assets/css/frontend_customizer.css?v=4.5";
+@import "assets/css/colorpicker.css?v=4.5";
