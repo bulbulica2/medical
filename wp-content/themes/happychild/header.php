@@ -36,47 +36,9 @@
 						)
 					);
 			}else{ ?>
-				<div class="top_nav">
-					<nav class="navbar navbar-default" role="navigation">
-						<div class="container-fluid clearfix">
-							<!-- Brand and toggle get grouped for better mobile display -->
-							<div class="navbar-header">
-								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-									<span class="sr-only">Toggle navigation</span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-								</button>
-								<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php echo get_theme_mod( 'logo' ) ?> " alt="<?php bloginfo( 'name' ); ?>" /></a>
-							</div>
-
-							<!-- Collect the nav links, forms, and other content for toggling -->
-							<div class="collapse navbar-collapse" id="navbar-collapse-1">
-								<?php
-									wp_nav_menu(
-										array(
-											'theme_location'  => 'primary',
-											'container'       => '',
-											'container_class' => '',
-											'container_id'    => '',
-											'menu_class'      => 'nav navbar-nav',
-											'fallback_cb'     => 'wp_bootstrap_navwalker::fallback',
-											'walker'          => new wp_bootstrap_navwalker()
-										)
-									);
-								?>
-								<form class="navbar-form navbar-left" action="/" method="get" role="search">
-									<div class="form-group">
-										<input type="text" name="s" class="form-control" placeholder="Search">
-									</div>
-									<button type="submit" class="btn"></button>
-								</form>
-							</div>
-							<!-- /.navbar-collapse -->
-						</div>
-						<!-- /.container-fluid -->
-					</nav>
-				</div>
+        <a href="<?php echo esc_url( home_url( '/' ) ); ?>">
+          <img class="nav-header-image" src="<?php echo get_theme_mod( 'logo' ) ?> " alt="<?php bloginfo( 'Pediclinique'); ?>" />
+        </a>
 				<div class="navbar-header-2 clearfix">
 					<a class="navbar-brand" href="/"><img src="<?php echo get_theme_mod( 'logo' ) ?> " alt="" /></a>
 				</div>
@@ -86,3 +48,23 @@
 	<!--#header-->
 	<div class="main">
 		<div class="container">
+
+<style>
+  .nav-header-image {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: auto;
+    display: block;
+  }
+  .title_block h1 {
+      background: inherit;
+  }
+  .navbar-brand {
+      color: black;
+  }
+  .title_block.style_1 {
+    background-image: none;
+    color: #c56eac;
+  }
+</style>

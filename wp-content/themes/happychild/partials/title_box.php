@@ -18,18 +18,38 @@ if ( is_archive() ) {
 			$style .= '"';
 		}
 		?>
-		<div class="title_block <?php if(!empty($title_box)){ echo $title_box; }elseif(is_singular('product')){ echo 'shop'; }else{ echo 'style_1'; }; ?>" <?php echo $style; ?>>
-			<h1>
-				<?php
-				if ( is_home() ) {
-					echo __( 'Latest Posts', 'happychild' );
-				} else {
-					the_title();
-				}
-				?>
-			</h1>
-		</div>
+    <div>
+      <div class="title_block <?php if(!empty($title_box)){ echo $title_box; }elseif(is_singular('product')){ echo 'shop'; }else{ echo 'style_1'; }; ?>" <?php echo $style; ?>>
+        <br/>
+        <h1>
+            <?php
+            the_title();
+            ?>
+        </h1>
+        <div class="blog-description-header">
+            <?php echo get_option( 'blogdescription' ); ?>
+        </div>
+      </div>
+      <div>
+
+      </div>
+    </div>
 	<?php
 	}
 }
 ?>
+<style>
+  .blog-description-header {
+      text-align: center; color: black; font-size: 21px;
+  }
+  @media (min-width:650px)  {
+    .title_block {
+      padding-top: 80px;
+    }
+  }
+  @media (max-width:650px)  {
+    .title_block {
+      margin-top: -150px;
+    }
+  }
+</style>
