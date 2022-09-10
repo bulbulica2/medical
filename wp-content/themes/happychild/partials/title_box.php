@@ -21,7 +21,7 @@ if ( is_archive() ) {
     <div>
       <div class="title_block <?php if(!empty($title_box)){ echo $title_box; }elseif(is_singular('product')){ echo 'shop'; }else{ echo 'style_1'; }; ?>" <?php echo $style; ?>>
         <br/>
-        <h1>
+        <h1 class="oleo-script-swash">
             <?php
             the_title();
             ?>
@@ -38,6 +38,9 @@ if ( is_archive() ) {
 	}
 }
 ?>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Oleo Script' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Oleo Script Swash Caps' rel='stylesheet'>
 <style>
   .blog-description-header {
       text-align: center; color: black; font-size: 21px;

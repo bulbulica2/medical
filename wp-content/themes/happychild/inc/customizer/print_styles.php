@@ -10,7 +10,7 @@ function customizer_print_style() {
 
 	?>
 	<style type="text/css">
-		
+
 		body,
 		body .btn,
 		.container .vc_btn,
@@ -37,14 +37,34 @@ function customizer_print_style() {
 		.woocommerce .cart-collaterals .shipping_calculator h2,
 		.woocommerce-page .cart-collaterals .shipping_calculator h2,
 		.woocommerce h2{
-			font-family: <?php echo esc_attr( $base_font_family ); ?>;
+        font-family: 'Montserrat', serif;
 		}
 		
 		h2, .h2,
 		.logo_centered_header .title_block,
 		.title_block{
-			font-family: <?php echo esc_attr( $heading_font_family ); ?>;
+        font-family: 'Montserrat', serif;
 		}
+
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+        font-family: 'Montserrat', serif;
+    }
+
+    .oleo-script {
+        font-family: 'Oleo Script', cursive;
+    }
+
+    .oleo-script-swash {
+        font-family: 'Oleo Script Swash Caps';
+    }
+
+    .text-align-center {
+        text-align: center;
+    }
+
+    .figcaptation-center figcaption {
+        text-align: center;
+    }
 
         #footer{
             <?php if(!empty($footer_bg_image)){ ?>

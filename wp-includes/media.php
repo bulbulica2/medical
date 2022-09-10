@@ -2248,7 +2248,7 @@ function img_caption_shortcode( $attr, $content = '' ) {
 			do_shortcode( $content ),
 			sprintf(
 				'<figcaption %sclass="wp-caption-text">%s</figcaption>',
-				$caption_id,
+				$caption_id . '1',
 				$atts['caption']
 			)
 		);

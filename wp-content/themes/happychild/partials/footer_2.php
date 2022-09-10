@@ -20,7 +20,7 @@
         <?php endif; ?>
         <?php $footer = get_option( 'footer' ); ?>
         <?php if ( ! empty( $footer['copyright'] ) ) { ?>
-            <div class="copyrights">
+            <div class="copyrights text-align-center">
                 <?php echo $footer['copyright']; ?>
             </div>
         <?php } ?>
