@@ -186,12 +186,12 @@ function theme_register_customizer_options( $wp_customize ) {
     );
 
     $socialLinks = array(
-        'facebook'  => __( 'Facebook', 'happychild' ),
-        'twitter'   => __( 'Twitter', 'happychild' ),
-        'linkedin'  => __( 'Linkedin', 'happychild' ),
-        'instagram' => __( 'Instagram', 'happychild' ),
-        'google'    => __( 'Google', 'happychild' ),
-        'vimeo'     => __( 'Vimeo', 'happychild' )
+        'facebook'  => __( 'Facebook Pediclinique', 'happychild' ),
+        'twitter'   => __( 'Instagram Pediclinique', 'happychild' ),
+        'linkedin'  => __( 'Facebook Lapte', 'happychild' ),
+        'instagram' => __( 'Instagram Lapte', 'happychild' ),
+        'google'    => __( 'Subtitlu', 'happychild' ),
+        'vimeo'     => __( 'Locatie', 'happychild' )
     );
 
     foreach ( $socialLinks as $setting => $label ) {
