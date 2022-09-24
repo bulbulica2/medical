@@ -58,6 +58,10 @@ function customizer_print_style() {
         font-family: 'Oleo Script Swash Caps';
     }
 
+    .padding-20px {
+        padding: 20px;
+    }
+
     .text-align-center {
         text-align: center;
     }

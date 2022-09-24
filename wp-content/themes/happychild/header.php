@@ -9,8 +9,9 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="format-detection" content="telephone=no" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
-	<title><?php wp_title( '|', true, 'right' ); ?></title>
+	<title>Pediclinique Programari</title>
 
 	<!--[if lt IE 9]>
 	<script src="<?php echo get_template_directory_uri()?>/js/html5.js"></script>
